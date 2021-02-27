@@ -1,5 +1,6 @@
 brew 'zsh'
 brew 'tldr'
+brew 'tig'
 
 cask 'visual-studio-code'
 cask '1password'
