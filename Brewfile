@@ -1,0 +1,11 @@
+brew 'zsh'
+brew 'tldr'
+
+cask 'visual-studio-code'
+cask '1password'
+cask 'firefox'
+cask 'spotify'
+cask 'signal'
+cask 'kindle'
+cask 'rectangle'
+cask 'docker'
