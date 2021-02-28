@@ -1,10 +1,14 @@
 #!/usr/bin/env bash
 
-echo "===> 1/2 Installing homebrew... <==="
+echo "===> 1/3 Installing homebrew... <==="
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-echo "===> 1/2 Finised <==="
+echo "===> 1/3 Finised <==="
 echo
-echo "===> 2/2 Installing dependencies... <==="
+echo "===> 2/3 Installing oh-my-zsh... <==="
+$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+echo "===> 2/3 Finised <==="
+echo
+echo "===> 3/3 Installing dependencies... <==="
 ln -s "$(pwd)"/Brewfile ~/Brewfile
 brew bundle
-echo "===> 2/2 Finised <==="
+echo "===> 3/3 Finised <==="
