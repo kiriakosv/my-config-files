@@ -1,4 +1,3 @@
-brew 'zsh'
 brew 'tldr'
 brew 'tig'
 
