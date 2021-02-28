@@ -5,7 +5,7 @@ echo "===> 1/3 Installing homebrew... <==="
 echo "===> 1/3 Finised <==="
 echo
 echo "===> 2/3 Installing oh-my-zsh... <==="
-$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 echo "===> 2/3 Finised <==="
 echo
 echo "===> 3/3 Installing dependencies... <==="
