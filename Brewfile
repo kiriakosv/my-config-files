@@ -1,5 +1,8 @@
+tap 'dart-lang/dart'
+
 brew 'tldr'
 brew 'tig'
+brew 'dart'
 
 cask 'visual-studio-code'
 cask '1password'
