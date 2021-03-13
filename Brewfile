@@ -3,6 +3,7 @@ tap 'dart-lang/dart'
 brew 'tldr'
 brew 'tig'
 brew 'dart'
+brew 'rbenv'
 
 cask 'visual-studio-code'
 cask '1password'
