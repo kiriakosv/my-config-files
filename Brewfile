@@ -7,6 +7,7 @@ brew 'rbenv'
 brew 'neovim'
 brew 'node'
 brew 'fzf'
+brew 'tmux'
 
 cask 'visual-studio-code'
 cask '1password'
