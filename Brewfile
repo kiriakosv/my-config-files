@@ -4,6 +4,7 @@ brew 'tldr'
 brew 'tig'
 brew 'dart'
 brew 'rbenv'
+brew 'neovim'
 
 cask 'visual-studio-code'
 cask '1password'
