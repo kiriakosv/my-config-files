@@ -8,6 +8,7 @@ brew 'neovim'
 brew 'node'
 brew 'fzf'
 brew 'tmux'
+brew 'go'
 
 cask 'visual-studio-code'
 cask '1password'
