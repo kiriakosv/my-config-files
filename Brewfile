@@ -9,6 +9,7 @@ brew 'node'
 brew 'fzf'
 brew 'tmux'
 brew 'go'
+brew 'mas'
 
 cask 'visual-studio-code'
 cask '1password'
