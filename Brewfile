@@ -23,6 +23,5 @@ cask 'viber'
 cask 'android-studio'
 cask 'google-chrome'
 cask 'iterm2'
-cask 'zettlr'
 
 mas 'Bear', id: 1091189122
