@@ -10,6 +10,7 @@ brew 'fzf'
 brew 'tmux'
 brew 'go'
 brew 'mas'
+brew 'python'
 
 cask 'visual-studio-code'
 cask '1password'
