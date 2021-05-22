@@ -26,5 +26,6 @@ cask 'google-chrome'
 cask 'iterm2'
 cask 'anki'
 cask 'alfred'
+cask 'slack'
 
 mas 'Bear', id: 1091189122
