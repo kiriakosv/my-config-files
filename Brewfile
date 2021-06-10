@@ -13,6 +13,7 @@ brew 'mas'
 brew 'python'
 brew 'pipenv'
 brew 'pyenv'
+brew 'postgresql'
 
 cask 'visual-studio-code'
 cask '1password'
