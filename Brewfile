@@ -11,6 +11,7 @@ brew 'tmux'
 brew 'go'
 brew 'mas'
 brew 'python'
+brew 'pipenv'
 
 cask 'visual-studio-code'
 cask '1password'
