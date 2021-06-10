@@ -12,6 +12,7 @@ brew 'go'
 brew 'mas'
 brew 'python'
 brew 'pipenv'
+brew 'pyenv'
 
 cask 'visual-studio-code'
 cask '1password'
