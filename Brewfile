@@ -30,5 +30,6 @@ cask 'iterm2'
 cask 'anki'
 cask 'alfred'
 cask 'slack'
+cask 'zoom'
 
 mas 'Bear', id: 1091189122
