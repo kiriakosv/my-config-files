@@ -15,6 +15,7 @@ brew 'pipenv'
 brew 'pyenv'
 brew 'postgresql'
 brew 'redis'
+brew 'mailhog'
 
 cask 'visual-studio-code'
 cask '1password'
