@@ -14,6 +14,7 @@ brew 'python'
 brew 'pipenv'
 brew 'pyenv'
 brew 'postgresql'
+brew 'redis'
 
 cask 'visual-studio-code'
 cask '1password'
