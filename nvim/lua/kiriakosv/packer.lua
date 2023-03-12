@@ -17,6 +17,12 @@ return require('packer').startup(function(use)
   use('tpope/vim-fugitive')
   use('f-person/git-blame.nvim')
   use("ayu-theme/ayu-vim")
+  use {
+      'numToStr/Comment.nvim',
+      config = function()
+          require('Comment').setup()
+      end
+  }
 
   use {
       'VonHeikemen/lsp-zero.nvim',
