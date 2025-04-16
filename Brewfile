@@ -1,5 +1,6 @@
 brew 'mise'
 brew 'postgresql'
+brew 'fish'
 
 cask 'ghostty'
 cask 'rectangle'
